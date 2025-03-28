@@ -30,7 +30,7 @@ Before running the application, make sure you have the following software instal
 Open a terminal and run the following command to retrieve the project from the GitHub repository:
 
 ```bash
-git clone https://github.com/nathaa13/CyberSecurity-AttackType-Detection.git
+git clone https://github.com/aminahocine/CyberSecurity_AttackType_Detection.git
 ```
 
 Then, navigate to the project directory:
